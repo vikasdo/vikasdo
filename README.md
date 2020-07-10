@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**vikasdo/vikasdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I am D.vikas, a Computer Science and Engineering Undergrad at Snist 🧑‍🎓. I am a Programmer, and always excited to learn new stuffs.
 💻 I code in Python.
@@ -24,4 +23,4 @@ def 4YearsOfCSE(self):
     print(Happy Coding!)
     
 self.4YearsOfCSE()
--->
+
